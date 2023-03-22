@@ -1,6 +1,4 @@
 import React from 'react';
-import { Router } from '@reach/router';
-
 import Recipes from './pages/Recipes';
 import ThemeProvider from './components/ThemeProvider';
 import Header from './layout/Header';
@@ -11,9 +9,7 @@ const App = () => (
   <ThemeProvider>
     <Header />
     <Body>
-      <Router>
-        <Recipes path="/" />
-      </Router>
+      <Recipes />
     </Body>
     <Footer />
   </ThemeProvider>

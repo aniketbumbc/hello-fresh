@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/hello-fresh/static/js/main.601f7d3c.chunk.js",
-    "main.js.map": "/hello-fresh/static/js/main.601f7d3c.chunk.js.map",
+    "main.js": "/hello-fresh/static/js/main.15b4a82b.chunk.js",
+    "main.js.map": "/hello-fresh/static/js/main.15b4a82b.chunk.js.map",
     "runtime-main.js": "/hello-fresh/static/js/runtime-main.424bdd83.js",
     "runtime-main.js.map": "/hello-fresh/static/js/runtime-main.424bdd83.js.map",
     "static/js/2.fdccfc1f.chunk.js": "/hello-fresh/static/js/2.fdccfc1f.chunk.js",
     "static/js/2.fdccfc1f.chunk.js.map": "/hello-fresh/static/js/2.fdccfc1f.chunk.js.map",
     "index.html": "/hello-fresh/index.html",
-    "precache-manifest.1db3093d989f33f8e595335d31346b02.js": "/hello-fresh/precache-manifest.1db3093d989f33f8e595335d31346b02.js",
+    "precache-manifest.08f1ab6d72cfe1f9ad2a35e5b4710c88.js": "/hello-fresh/precache-manifest.08f1ab6d72cfe1f9ad2a35e5b4710c88.js",
     "service-worker.js": "/hello-fresh/service-worker.js",
     "static/js/2.fdccfc1f.chunk.js.LICENSE.txt": "/hello-fresh/static/js/2.fdccfc1f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.424bdd83.js",
     "static/js/2.fdccfc1f.chunk.js",
-    "static/js/main.601f7d3c.chunk.js"
+    "static/js/main.15b4a82b.chunk.js"
   ]
 }

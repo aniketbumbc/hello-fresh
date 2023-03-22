@@ -9,7 +9,11 @@ const Header = () => (
     alignItems="center"
     padding="sm">
     <a href="/" title="Home">
-      <img height="30px" src="/HelloFreshLogo.png" alt="HelloFresh Logo" />
+      <img
+        height="30px"
+        src={process.env.PUBLIC_URL + '/HelloFreshLogo.png'}
+        alt="HelloFresh Logo"
+      />
     </a>
   </Flex>
 );

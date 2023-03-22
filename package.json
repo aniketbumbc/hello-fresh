@@ -1,8 +1,7 @@
 {
-  "homepage": "",
-  "name": "frontend-challenge",
+  "homepage": "https://aniketbumbc.github.io/hello-fresh",
+  "name": "hellofresh",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {
     "@reach/router": "^1.3.4",
     "@styled-system/prop-types": "^5.1.5",

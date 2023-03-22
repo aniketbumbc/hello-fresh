@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4432aebdd4e3bd17de63d0aaf165004d",
+    "revision": "7bb8d10a564235049192bab4fb8fec84",
     "url": "/hello-fresh/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hello-fresh/static/js/2.fdccfc1f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f59c0c5a8c710fc5df61",
-    "url": "/hello-fresh/static/js/main.601f7d3c.chunk.js"
+    "revision": "945efc7f1a8c1b2e692b",
+    "url": "/hello-fresh/static/js/main.15b4a82b.chunk.js"
   },
   {
     "revision": "7fb21ff01d5451cac2fb",

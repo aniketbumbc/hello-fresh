@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/hello-fresh/static/js/main.15b4a82b.chunk.js",
-    "main.js.map": "/hello-fresh/static/js/main.15b4a82b.chunk.js.map",
+    "main.js": "/hello-fresh/static/js/main.8b76400b.chunk.js",
+    "main.js.map": "/hello-fresh/static/js/main.8b76400b.chunk.js.map",
     "runtime-main.js": "/hello-fresh/static/js/runtime-main.424bdd83.js",
     "runtime-main.js.map": "/hello-fresh/static/js/runtime-main.424bdd83.js.map",
-    "static/js/2.fdccfc1f.chunk.js": "/hello-fresh/static/js/2.fdccfc1f.chunk.js",
-    "static/js/2.fdccfc1f.chunk.js.map": "/hello-fresh/static/js/2.fdccfc1f.chunk.js.map",
+    "static/js/2.97cd4436.chunk.js": "/hello-fresh/static/js/2.97cd4436.chunk.js",
+    "static/js/2.97cd4436.chunk.js.map": "/hello-fresh/static/js/2.97cd4436.chunk.js.map",
     "index.html": "/hello-fresh/index.html",
-    "precache-manifest.08f1ab6d72cfe1f9ad2a35e5b4710c88.js": "/hello-fresh/precache-manifest.08f1ab6d72cfe1f9ad2a35e5b4710c88.js",
+    "precache-manifest.90b7c5c5848af1834da5b8a6b46b294a.js": "/hello-fresh/precache-manifest.90b7c5c5848af1834da5b8a6b46b294a.js",
     "service-worker.js": "/hello-fresh/service-worker.js",
-    "static/js/2.fdccfc1f.chunk.js.LICENSE.txt": "/hello-fresh/static/js/2.fdccfc1f.chunk.js.LICENSE.txt"
+    "static/js/2.97cd4436.chunk.js.LICENSE.txt": "/hello-fresh/static/js/2.97cd4436.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.424bdd83.js",
-    "static/js/2.fdccfc1f.chunk.js",
-    "static/js/main.15b4a82b.chunk.js"
+    "static/js/2.97cd4436.chunk.js",
+    "static/js/main.8b76400b.chunk.js"
   ]
 }
